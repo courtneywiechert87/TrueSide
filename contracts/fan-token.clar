@@ -1,5 +1,4 @@
 ;; TrueSide Fan Token Contract
-;; Clarity v2
 ;; Implements mint, burn, transfer, staking, governance, and admin controls
 
 (define-constant ERR-NOT-AUTHORIZED u100)
